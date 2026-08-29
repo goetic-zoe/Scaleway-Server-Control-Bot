@@ -1,1 +1,1 @@
-# Scaleway Server Control Discord Bot
+# Scaleway Control Discord Bot
